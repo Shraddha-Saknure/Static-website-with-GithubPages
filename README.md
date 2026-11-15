@@ -2,7 +2,7 @@
 
 A responsive, interactive image gallery built with HTML, CSS, and JavaScript. The project was created for Elevate Labs DevOps Internship Task 6 and is published with GitHub Pages.
 
-## TASK 5: Host a Static Website with GitHub Pages
+## TASK : Host a Static Website with GitHub Pages
 
 **Objective:** Deploy a simple HTML website using GitHub Pages.
 
