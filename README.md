@@ -28,7 +28,7 @@ Open `index.html` in a browser. No build step or package installation is require
 
 ## GitHub Pages deployment
 
-In the repository's **Settings → Pages**, select **Deploy from a branch**, then choose `main` and `/(root)`. GitHub Pages will publish the site at the URL above after deployment completes.
+The `Deploy website to GitHub Pages` workflow deploys the site from the repository root whenever changes are pushed to `main`. It also supports manual runs from the **Actions** tab and configures GitHub Pages when the workflow runs for the first time.
 
 ## Credits
 
