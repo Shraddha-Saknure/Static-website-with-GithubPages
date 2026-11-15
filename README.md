@@ -4,9 +4,7 @@ A responsive, interactive image gallery built with HTML, CSS, and JavaScript. Th
 
 ## GitHub Pages
 
-After GitHub Pages is enabled and deployment completes, the site URL will be:
-
-https://shraddha-saknure.github.io/Static-website-with-GithubPages/
+Site URL: [3D Coverflow Website](https://shraddha-saknure.github.io/Static-website-with-GithubPages/)
 
 ## Features
 
