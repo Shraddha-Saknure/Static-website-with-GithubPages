@@ -28,7 +28,7 @@ Open `index.html` in a browser. No build step or package installation is require
 
 ## GitHub Pages deployment
 
-The `Deploy website to GitHub Pages` workflow deploys the site from the repository root whenever changes are pushed to `main`. It also supports manual runs from the **Actions** tab and configures GitHub Pages when the workflow runs for the first time.
+Before the first deployment, open the repository's **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**. The `Deploy website to GitHub Pages` workflow then deploys the repository root whenever changes are pushed to `main`; it also supports manual runs from the **Actions** tab.
 
 ## Credits
 
