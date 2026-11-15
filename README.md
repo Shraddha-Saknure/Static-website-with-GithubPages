@@ -1,13 +1,35 @@
-# Static-website-with-GithubPages
+# 3D Coverflow Website
 
-Elevate Labs DevOps Internship Task 6
+A responsive, interactive image gallery built with HTML, CSS, and JavaScript. The project was created for Elevate Labs DevOps Internship Task 6 and is published with GitHub Pages.
 
-##Implementation
+## GitHub Pages
 
-Live Website Link - 
+After GitHub Pages is enabled and deployment completes, the site URL will be:
 
+https://shraddha-saknure.github.io/Static-website-with-GithubPages/
 
-- Created Sample HTML Website and pushed it in Github repo.
-- Enabled Github Pages, and selected main rootfolder. 
-- Github Pages, provided with live website access link.
-- Tested Customization by changind Text and CSS elements.
+## Features
+
+- Interactive 3D coverflow gallery with seven landscape images
+- Previous/next controls, slide indicators, and autoplay
+- Responsive layout with touch and keyboard navigation
+- About and contact sections
+
+## Project files
+
+- `index.html` — page structure and gallery image references
+- `templatemo-3d-coverflow.css` — layout, styling, and animations
+- `templatemo-3d-coverflow-scripts.js` — gallery interactions
+- `images/` — image assets used in the gallery
+
+## Run locally
+
+Open `index.html` in a browser. No build step or package installation is required.
+
+## GitHub Pages deployment
+
+In the repository's **Settings → Pages**, select **Deploy from a branch**, then choose `main` and `/(root)`. GitHub Pages will publish the site at the URL above after deployment completes.
+
+## Credits
+
+The 3D Coverflow template is by [TemplateMo](https://templatemo.com/). See the template attribution in `index.html`.
